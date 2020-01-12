@@ -1,3 +1,6 @@
+hosted on https://robofriendsapp.azurewebsites.net/
+and https://aa-glitch.github.io/monsters-rolodex/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
